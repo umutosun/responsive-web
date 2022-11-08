@@ -269,6 +269,11 @@ color: #867B7B;
         display: block;
         margin-right: 1rem;
     }
+    .content{
+        width: 100%;
+        height: 100%;
+        margin-bottom: 2rem;
+    }
     .content .content-right{
         display: none;
     }
@@ -296,7 +301,7 @@ color: #867B7B;
         justify-content: center;
         padding: 6.5rem;
         gap: 5.4rem;
-        margin-top: -42rem;
+        /* margin-top: -42rem; */
         
     }
     .content-2 .two{
@@ -396,6 +401,11 @@ color: #867B7B;
         display: block;
         margin-right: 1rem;
     }
+    .content{
+        width: 100%;
+        height: 100%;
+        margin-bottom: 2rem;
+    }
     .content .content-right{
         display: none;
     }
@@ -423,7 +433,7 @@ color: #867B7B;
         justify-content: center;
         padding: 6.5rem;
         gap: 5.4rem;
-        margin-top: -42rem;
+        /* margin-top: -42rem; */
         
     }
     .content-2 .two{
