@@ -379,6 +379,9 @@ color: #867B7B;
     }
 }
 @media (max-width:480px){
+    html{
+        font-size: 11px;
+    }
     .navbar .navbar-left{
         margin-left: 1.5rem;
     }
