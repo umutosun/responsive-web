@@ -447,7 +447,8 @@ color: #867B7B;
         text-align: center;
         display: flex;
         flex-direction: column;
-        padding: 2rem;
+        padding: 3rem;
+        padding-left: 2rem;
         justify-content: center;
         align-items: center;
     }
@@ -460,6 +461,8 @@ color: #867B7B;
         display: flex;
         flex-direction: column;
         padding: 2rem;
+        justify-content: center;
+        align-items: center;
     }
     .content-2 .content-2-right{
         flex: 100%;
@@ -469,6 +472,8 @@ color: #867B7B;
         display: flex;
         flex-direction: column;
         padding: 2rem;
+        justify-content: center;
+        align-items: center;
     }
     .footer{
         display: flex;
